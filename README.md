@@ -3,7 +3,7 @@
 
 Backendowe REST API dla wypożyczalni rowerów (dla strony internetowej i systemu wewnętrznego). Stworzone jako projekt zaliczeniowy na przedmiot Inżynieria Oprogramowania na Politechnice Śląskiej.
 
-Program stworzony w Javie z wykorzystaniem frameworka Spring (Spring Boot, Spring Security, Spring Web).
+Program stworzony w Javie z wykorzystaniem frameworka Spring (Spring Boot, Spring Security, Spring Web) oraz Hibernate.
 Łączy się z bazą danych w MySQL.
 
 
@@ -12,5 +12,5 @@ Program stworzony w Javie z wykorzystaniem frameworka Spring (Spring Boot, Sprin
 
 Backend REST API for a bike rental place (for a website and internal system). Done as an assignment for Software Engineering class on the Silesian University of Technology. 
 
-Developed in Java with Spring framework (Spring Boot, Spring Security, Spring Web).
+Developed in Java with Spring framework (Spring Boot, Spring Security, Spring Web) and Hibernate.
 Connects to a MySQL Database. 
